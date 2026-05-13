@@ -7,7 +7,7 @@
 
 **Technology Stack:** Next.js 16, React 19, MongoDB, Google Gemini AI, Tailwind CSS v4
 
-**Academic Year:** 2025–2026
+**Academic Year:** 2022–2026
 
 ---
 
@@ -737,9 +737,3 @@ Send analysis summary emails upon completion, supporting asynchronous workflows 
 ---
 
 *End of Report*
-
----
-
-> **Word Count:** ~6,500 words  
-> **Prepared by:** Resumind Development Team  
-> **Date:** May 2026
